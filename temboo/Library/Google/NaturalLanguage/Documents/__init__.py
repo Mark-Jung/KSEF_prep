@@ -1,0 +1,4 @@
+from temboo.Library.Google.NaturalLanguage.Documents.AnalyzeEntities import AnalyzeEntities, AnalyzeEntitiesInputSet, AnalyzeEntitiesResultSet, AnalyzeEntitiesChoreographyExecution
+from temboo.Library.Google.NaturalLanguage.Documents.AnalyzeSentiment import AnalyzeSentiment, AnalyzeSentimentInputSet, AnalyzeSentimentResultSet, AnalyzeSentimentChoreographyExecution
+from temboo.Library.Google.NaturalLanguage.Documents.AnalyzeSyntax import AnalyzeSyntax, AnalyzeSyntaxInputSet, AnalyzeSyntaxResultSet, AnalyzeSyntaxChoreographyExecution
+from temboo.Library.Google.NaturalLanguage.Documents.AnnotateText import AnnotateText, AnnotateTextInputSet, AnnotateTextResultSet, AnnotateTextChoreographyExecution

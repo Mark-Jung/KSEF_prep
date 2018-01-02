@@ -1,0 +1,6 @@
+from temboo.Library.eBay.Shopping.FindProducts import FindProducts, FindProductsInputSet, FindProductsResultSet, FindProductsChoreographyExecution
+from temboo.Library.eBay.Shopping.GetCategoryInfo import GetCategoryInfo, GetCategoryInfoInputSet, GetCategoryInfoResultSet, GetCategoryInfoChoreographyExecution
+from temboo.Library.eBay.Shopping.GetItemStatus import GetItemStatus, GetItemStatusInputSet, GetItemStatusResultSet, GetItemStatusChoreographyExecution
+from temboo.Library.eBay.Shopping.GetMultipleItems import GetMultipleItems, GetMultipleItemsInputSet, GetMultipleItemsResultSet, GetMultipleItemsChoreographyExecution
+from temboo.Library.eBay.Shopping.GetShippingCosts import GetShippingCosts, GetShippingCostsInputSet, GetShippingCostsResultSet, GetShippingCostsChoreographyExecution
+from temboo.Library.eBay.Shopping.GetUserProfile import GetUserProfile, GetUserProfileInputSet, GetUserProfileResultSet, GetUserProfileChoreographyExecution

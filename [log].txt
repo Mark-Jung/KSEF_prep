@@ -1,0 +1,9 @@
+The video pretty much explains it all:
+https://www.youtube.com/watch?v=fJcl6Gw1D8k
+
++번호판 찾는 알고리즘을 종횡비와 글자수로 판단함
++회전변환시 발생하는 문제해결
++번호판 글자 해석시 resize크기를 동일하게 맞춤
+
++가로, 세로 합치기
++합친후 좌우에 남는 오 영역 제거
